@@ -1,0 +1,3368 @@
+[
+    {
+        "id": "7dbf1e3bf27dcc18",
+        "type": "tab",
+        "label": "フロー 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "59f9829700ef3f2d",
+        "type": "group",
+        "z": "7dbf1e3bf27dcc18",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d803670e9bb6aa86",
+            "63d8cfa722a8a87e",
+            "800922b7d97b8894"
+        ],
+        "x": 468,
+        "y": 19,
+        "w": 484,
+        "h": 615.5
+    },
+    {
+        "id": "d59620d28499d32f",
+        "type": "group",
+        "z": "7dbf1e3bf27dcc18",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "581a112f91fd7861",
+            "60145541dde85f40",
+            "e2db9ecf3d5e9b51",
+            "198cf8c52cd02444",
+            "fc0bd24173cb1506",
+            "1232d4b1248d3738",
+            "b699323ee537b801",
+            "4986fa7d9ebdcce6",
+            "47d958d3de0eccaa",
+            "5f6e45f64ee31d62",
+            "a1db30d556f234e0",
+            "3df9ad4baab8efbf",
+            "767d349841000da4",
+            "083b149f3f229ecd",
+            "7704950cce07bba2"
+        ],
+        "x": 14,
+        "y": 19,
+        "w": 412,
+        "h": 489.5
+    },
+    {
+        "id": "0d58694f49254945",
+        "type": "group",
+        "z": "7dbf1e3bf27dcc18",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ed26e3cbf1b4238c",
+            "3471a89eaeeb6641",
+            "8539e93cf7308d5d",
+            "3b31f3015d1db2a1",
+            "da20589081eebef1",
+            "7d21e3e87a6af38f",
+            "37eacdbf761d7330",
+            "e37c23323d176a73",
+            "56afdbacfa7aa0f6",
+            "9eeffc7886764386",
+            "1995f32b24cd9dd1",
+            "9e351a8528f95dfc",
+            "823eefd337dc8d96",
+            "3821a2816fc44c7e"
+        ],
+        "x": 994,
+        "y": 19,
+        "w": 352,
+        "h": 469.5
+    },
+    {
+        "id": "619e01094eda2d1d",
+        "type": "group",
+        "z": "7dbf1e3bf27dcc18",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "789f95852f317648",
+            "c6be1f2159f82f27",
+            "d6de61c7931535f0",
+            "d63bea79ad4c3dce",
+            "0fe1202280404e34",
+            "f4c248578c8d664c",
+            "79d138e0b0b0ea61",
+            "080b7ed2ac87a1d0",
+            "58c3e1c5659e313c",
+            "88fde082877bc21a",
+            "53a515141e93eb61",
+            "e990ab6ca0c93f0d",
+            "d36e88f53a4415df",
+            "bbdca7fec63349bf"
+        ],
+        "x": 994,
+        "y": 499,
+        "w": 352,
+        "h": 469.5
+    },
+    {
+        "id": "b9536a57c174546f",
+        "type": "group",
+        "z": "7dbf1e3bf27dcc18",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1c8624a599c3eafd",
+            "88e923a6f8b9b031",
+            "61359bfc3450911f",
+            "5acc3b228d133383",
+            "dc1b21e20040c09d",
+            "9fdc749f5cb2e957",
+            "7093997315760b38",
+            "f90180339f89be30",
+            "6f7c34f8b086f54a",
+            "35dc9306836a4cb6",
+            "8f341dafe0740852",
+            "b48c5f281acaad2b",
+            "7a5718d1a80e9b41",
+            "f30c63336d3166e6"
+        ],
+        "x": 1394,
+        "y": 499,
+        "w": 352,
+        "h": 469.5
+    },
+    {
+        "id": "7cb881965e55fb97",
+        "type": "group",
+        "z": "7dbf1e3bf27dcc18",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e44771c1e14e8abd",
+            "16031142512c4891",
+            "41045b5caa781a3c",
+            "cb92a4a7641dcac8",
+            "48c6c29e6c6c913e",
+            "21ab9a827884b13b",
+            "b78da0198eb35878",
+            "f87fa19f243dc782",
+            "dda450fca75b8c65",
+            "3f9d2a20360764a3",
+            "2d6e0baeb5e1f107",
+            "11e2409d928323ee",
+            "69c2a80779a77e9c",
+            "b063d9822936e50c"
+        ],
+        "x": 1394,
+        "y": 19,
+        "w": 352,
+        "h": 469.5
+    },
+    {
+        "id": "ad23d93f5c90da4a",
+        "type": "group",
+        "z": "7dbf1e3bf27dcc18",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ae5d48837f9340a7",
+            "807128d7352ee2a2",
+            "228f9e1525f997b9",
+            "dc4ebc9babc87d96",
+            "3fc3b5ca139fe322",
+            "96df8378aac7df5b",
+            "2f5493aec6e8a0ab",
+            "3a840fbe06d6c77d",
+            "e07aae2c5f70c6ce",
+            "f339ad065888b2a5",
+            "5eb455b6df8269ee",
+            "4772e4c9a53335c6",
+            "b5e41e76e1f35ae1",
+            "a9dc652a853c62e7"
+        ],
+        "x": 994,
+        "y": 979,
+        "w": 352,
+        "h": 469.5
+    },
+    {
+        "id": "4ca01543db29ac03",
+        "type": "group",
+        "z": "7dbf1e3bf27dcc18",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "cf7f8ed5a27dfa4a",
+            "2c3f1db9e91cb6ea",
+            "b8378d51f681a150",
+            "4ef03db0d8c814e9",
+            "95d0b11b278d5845"
+        ],
+        "x": 1794,
+        "y": 19,
+        "w": 372,
+        "h": 189.5
+    },
+    {
+        "id": "0962671ccf6383e9",
+        "type": "group",
+        "z": "7dbf1e3bf27dcc18",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5e3b9c1bde515c49",
+            "67da0ea52703edfe",
+            "8cce295cf68c63b5"
+        ],
+        "x": 14,
+        "y": 919,
+        "w": 412,
+        "h": 129.5
+    },
+    {
+        "id": "5d1c33f36cd0db7d",
+        "type": "group",
+        "z": "7dbf1e3bf27dcc18",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "8a4c6f14df360455",
+            "f2f73580901d3128",
+            "aa3a8de82679db19",
+            "c04c6351a5e7b4a9",
+            "b237f9e1a4253486",
+            "43db851086653a63",
+            "640cd97df3a16d0e",
+            "97ba0ef1965c837e",
+            "2a7292bad891d796"
+        ],
+        "x": 14,
+        "y": 559,
+        "w": 412,
+        "h": 309.5
+    },
+    {
+        "id": "63d8cfa722a8a87e",
+        "type": "group",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "59f9829700ef3f2d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "18526b8adcfe1aec",
+            "c07f5e1be6d46944",
+            "dc95f915bbe4bfa7",
+            "09cda7d784799f18",
+            "87e7e888a8933335",
+            "05424cdcb749797a",
+            "f56cb6761115805e",
+            "f670007f5a3a2c1f",
+            "7cbe7ac0ac2ace45"
+        ],
+        "x": 494,
+        "y": 99,
+        "w": 432,
+        "h": 309.5
+    },
+    {
+        "id": "800922b7d97b8894",
+        "type": "group",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "59f9829700ef3f2d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "8e4615d186d04199",
+            "1bc0db45ff8211e3",
+            "0b1bcacb56d43550",
+            "43ef623f2dc292c2",
+            "96dfe402feecd080"
+        ],
+        "x": 494,
+        "y": 419,
+        "w": 432,
+        "h": 189.5
+    },
+    {
+        "id": "115db1ccc7831610",
+        "type": "ui_tab",
+        "name": "ツール",
+        "icon": "build",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "a72c28d86679f2a6",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED ダッシュボード",
+            "hideToolbar": "true",
+            "allowSwipe": "false",
+            "lockMenu": "icon",
+            "allowTempTheme": "true",
+            "dateFormat": "YYYY/MM/DD",
+            "sizes": {
+                "sx": 40,
+                "sy": 32,
+                "gx": 3,
+                "gy": 3,
+                "cx": 3,
+                "cy": 3,
+                "px": 3,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "0936a743737ce4cf",
+        "type": "ui_group",
+        "name": "3Dツール",
+        "tab": "115db1ccc7831610",
+        "order": 1,
+        "disp": true,
+        "width": "3",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "9ae1f74910a1c03f",
+        "type": "ui_group",
+        "name": "iCAD情報",
+        "tab": "53d196039712cc60",
+        "order": 4,
+        "disp": true,
+        "width": "4",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "53d196039712cc60",
+        "type": "ui_tab",
+        "name": "リンク",
+        "icon": "link",
+        "order": 4,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "5e2f586015fc6492",
+        "type": "ui_group",
+        "name": "タップ1",
+        "tab": "d418a36ee7875426",
+        "order": 2,
+        "disp": true,
+        "width": "3",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b42ee0e978d37f09",
+        "type": "ui_group",
+        "name": "キリ",
+        "tab": "d418a36ee7875426",
+        "order": 1,
+        "disp": true,
+        "width": "3",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "30e356a581ec0587",
+        "type": "ui_group",
+        "name": "ざぐり",
+        "tab": "d418a36ee7875426",
+        "order": 4,
+        "disp": true,
+        "width": 3,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "20d694ee7a142566",
+        "type": "ui_group",
+        "name": "タップ2",
+        "tab": "d418a36ee7875426",
+        "order": 3,
+        "disp": true,
+        "width": "3",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b97d4197657bdfb5",
+        "type": "ui_group",
+        "name": "精度穴H7",
+        "tab": "d418a36ee7875426",
+        "order": 5,
+        "disp": true,
+        "width": "3",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "bdca513b4a45f4ba",
+        "type": "ui_group",
+        "name": "ショートカット",
+        "tab": "d418a36ee7875426",
+        "order": 6,
+        "disp": true,
+        "width": "3",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d418a36ee7875426",
+        "type": "ui_tab",
+        "name": "ライブラリ",
+        "icon": "my_library_books",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "33d97b32d577b93a",
+        "type": "ui_group",
+        "name": "その他",
+        "tab": "115db1ccc7831610",
+        "order": 3,
+        "disp": true,
+        "width": 3,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "738d44a04365dae1",
+        "type": "ui_group",
+        "name": "パーツ",
+        "tab": "53d196039712cc60",
+        "order": 2,
+        "disp": true,
+        "width": 4,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4b8f708a35699acf",
+        "type": "ui_spacer",
+        "z": "7dbf1e3bf27dcc18",
+        "name": "spacer",
+        "group": "bdca513b4a45f4ba",
+        "order": 1,
+        "width": "3",
+        "height": "1"
+    },
+    {
+        "id": "ec5aedee5f11c02c",
+        "type": "ui_group",
+        "name": "2Dツール",
+        "tab": "115db1ccc7831610",
+        "order": 2,
+        "disp": true,
+        "width": "3",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "581a112f91fd7861",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "EXE起動",
+        "x": 340,
+        "y": 460,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "60145541dde85f40",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "name": "",
+        "group": "0936a743737ce4cf",
+        "order": 7,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "オートインポート",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "ATimport.exe",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 460,
+        "wires": [
+            [
+                "581a112f91fd7861"
+            ]
+        ]
+    },
+    {
+        "id": "e2db9ecf3d5e9b51",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "EXE起動",
+        "x": 340,
+        "y": 280,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "198cf8c52cd02444",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "name": "",
+        "group": "0936a743737ce4cf",
+        "order": 4,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "レイヤ変更",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "ChangeLayer3D.exe",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 110,
+        "y": 280,
+        "wires": [
+            [
+                "e2db9ecf3d5e9b51"
+            ]
+        ]
+    },
+    {
+        "id": "5e3b9c1bde515c49",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0962671ccf6383e9",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "EXE起動",
+        "x": 340,
+        "y": 1000,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "67da0ea52703edfe",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0962671ccf6383e9",
+        "name": "",
+        "group": "33d97b32d577b93a",
+        "order": 1,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "バージョンダウン",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "ATversiondown.exe",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 1000,
+        "wires": [
+            [
+                "5e3b9c1bde515c49"
+            ]
+        ]
+    },
+    {
+        "id": "18526b8adcfe1aec",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "63d8cfa722a8a87e",
+        "name": "",
+        "group": "9ae1f74910a1c03f",
+        "order": 2,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "ものづくりのススメ",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "https://rivi-manufacturing.com/",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 620,
+        "y": 240,
+        "wires": [
+            [
+                "c07f5e1be6d46944"
+            ]
+        ]
+    },
+    {
+        "id": "c07f5e1be6d46944",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "63d8cfa722a8a87e",
+        "command": "start ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "WEBページ",
+        "x": 830,
+        "y": 240,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "dc95f915bbe4bfa7",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "63d8cfa722a8a87e",
+        "name": "",
+        "group": "9ae1f74910a1c03f",
+        "order": 1,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "サポセン",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "https://plm.jp.fujitsu.com/support/sx/",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 580,
+        "y": 180,
+        "wires": [
+            [
+                "09cda7d784799f18"
+            ]
+        ]
+    },
+    {
+        "id": "09cda7d784799f18",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "63d8cfa722a8a87e",
+        "command": "start ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "WEBページ",
+        "x": 830,
+        "y": 180,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "fc0bd24173cb1506",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "EXE起動",
+        "x": 340,
+        "y": 340,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "1232d4b1248d3738",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "name": "",
+        "group": "0936a743737ce4cf",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "シャフト編集",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "ShaftModelingTool.exe",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 120,
+        "y": 340,
+        "wires": [
+            [
+                "fc0bd24173cb1506"
+            ]
+        ]
+    },
+    {
+        "id": "87e7e888a8933335",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "63d8cfa722a8a87e",
+        "name": "",
+        "group": "9ae1f74910a1c03f",
+        "order": 3,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "ナガセエンジニアリング",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "https://www.youtube.com/@nagase-eng",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 630,
+        "y": 300,
+        "wires": [
+            [
+                "05424cdcb749797a"
+            ]
+        ]
+    },
+    {
+        "id": "05424cdcb749797a",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "63d8cfa722a8a87e",
+        "command": "start ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "WEBページ",
+        "x": 830,
+        "y": 300,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "8e4615d186d04199",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "800922b7d97b8894",
+        "name": "",
+        "group": "738d44a04365dae1",
+        "order": 1,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "WEB2CAD",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "https://www.3dfindit.com/ja/cad-bim-library/manufacturer?portal=web2cad",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 590,
+        "y": 500,
+        "wires": [
+            [
+                "1bc0db45ff8211e3"
+            ]
+        ]
+    },
+    {
+        "id": "1bc0db45ff8211e3",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "800922b7d97b8894",
+        "command": "start ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "WEBページ",
+        "x": 830,
+        "y": 500,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "d803670e9bb6aa86",
+        "type": "comment",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "59f9829700ef3f2d",
+        "name": "link",
+        "info": "",
+        "x": 570,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "b699323ee537b801",
+        "type": "comment",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "name": "3Dツール",
+        "info": "",
+        "x": 100,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "ed26e3cbf1b4238c",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "name": "",
+        "group": "5e2f586015fc6492",
+        "order": 4,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M4",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "!M04",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 260,
+        "wires": [
+            [
+                "3471a89eaeeb6641"
+            ]
+        ]
+    },
+    {
+        "id": "3471a89eaeeb6641",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 260,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "8539e93cf7308d5d",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "name": "",
+        "group": "5e2f586015fc6492",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M5",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "!M05",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 320,
+        "wires": [
+            [
+                "3b31f3015d1db2a1"
+            ]
+        ]
+    },
+    {
+        "id": "3b31f3015d1db2a1",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 320,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "da20589081eebef1",
+        "type": "comment",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "name": "タップ貫通",
+        "info": "",
+        "x": 1080,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "7d21e3e87a6af38f",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "name": "",
+        "group": "5e2f586015fc6492",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M6",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "!M06",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 380,
+        "wires": [
+            [
+                "37eacdbf761d7330"
+            ]
+        ]
+    },
+    {
+        "id": "37eacdbf761d7330",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 380,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "e37c23323d176a73",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "name": "",
+        "group": "5e2f586015fc6492",
+        "order": 7,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M8",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "!M08",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 440,
+        "wires": [
+            [
+                "56afdbacfa7aa0f6"
+            ]
+        ]
+    },
+    {
+        "id": "56afdbacfa7aa0f6",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 440,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "9eeffc7886764386",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "name": "",
+        "group": "5e2f586015fc6492",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M3",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "!M03",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 200,
+        "wires": [
+            [
+                "1995f32b24cd9dd1"
+            ]
+        ]
+    },
+    {
+        "id": "1995f32b24cd9dd1",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 200,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "789f95852f317648",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "name": "",
+        "group": "b42ee0e978d37f09",
+        "order": 4,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M4",
+        "tooltip": "",
+        "color": "black",
+        "bgcolor": "yellow",
+        "className": "",
+        "icon": "",
+        "payload": "!FM04",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 740,
+        "wires": [
+            [
+                "c6be1f2159f82f27"
+            ]
+        ]
+    },
+    {
+        "id": "c6be1f2159f82f27",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 740,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "d6de61c7931535f0",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "name": "",
+        "group": "b42ee0e978d37f09",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M5",
+        "tooltip": "",
+        "color": "black",
+        "bgcolor": "yellow",
+        "className": "",
+        "icon": "",
+        "payload": "!FM05",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 800,
+        "wires": [
+            [
+                "d63bea79ad4c3dce"
+            ]
+        ]
+    },
+    {
+        "id": "d63bea79ad4c3dce",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 800,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "0fe1202280404e34",
+        "type": "comment",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "name": "キリ",
+        "info": "",
+        "x": 1070,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "f4c248578c8d664c",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "name": "",
+        "group": "b42ee0e978d37f09",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M6",
+        "tooltip": "",
+        "color": "black",
+        "bgcolor": "yellow",
+        "className": "",
+        "icon": "",
+        "payload": "!FM06",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 860,
+        "wires": [
+            [
+                "79d138e0b0b0ea61"
+            ]
+        ]
+    },
+    {
+        "id": "79d138e0b0b0ea61",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 860,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "080b7ed2ac87a1d0",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "name": "",
+        "group": "b42ee0e978d37f09",
+        "order": 7,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M8",
+        "tooltip": "",
+        "color": "black",
+        "bgcolor": "yellow",
+        "className": "",
+        "icon": "",
+        "payload": "!FM08",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 920,
+        "wires": [
+            [
+                "58c3e1c5659e313c"
+            ]
+        ]
+    },
+    {
+        "id": "58c3e1c5659e313c",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 920,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "88fde082877bc21a",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "name": "",
+        "group": "b42ee0e978d37f09",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M3",
+        "tooltip": "",
+        "color": "black",
+        "bgcolor": "yellow",
+        "className": "",
+        "icon": "",
+        "payload": "!FM03",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 680,
+        "wires": [
+            [
+                "53a515141e93eb61"
+            ]
+        ]
+    },
+    {
+        "id": "53a515141e93eb61",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 680,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "1c8624a599c3eafd",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "name": "",
+        "group": "30e356a581ec0587",
+        "order": 4,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M4",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "red",
+        "className": "",
+        "icon": "",
+        "payload": "!CBM04",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1470,
+        "y": 740,
+        "wires": [
+            [
+                "88e923a6f8b9b031"
+            ]
+        ]
+    },
+    {
+        "id": "88e923a6f8b9b031",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1650,
+        "y": 740,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "61359bfc3450911f",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "name": "",
+        "group": "30e356a581ec0587",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M5",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "red",
+        "className": "",
+        "icon": "",
+        "payload": "!CBM05",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1470,
+        "y": 800,
+        "wires": [
+            [
+                "5acc3b228d133383"
+            ]
+        ]
+    },
+    {
+        "id": "5acc3b228d133383",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1650,
+        "y": 800,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "dc1b21e20040c09d",
+        "type": "comment",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "name": "ざぐり",
+        "info": "",
+        "x": 1470,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "9fdc749f5cb2e957",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "name": "",
+        "group": "30e356a581ec0587",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M6",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "red",
+        "className": "",
+        "icon": "",
+        "payload": "!CBM06",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1470,
+        "y": 860,
+        "wires": [
+            [
+                "7093997315760b38"
+            ]
+        ]
+    },
+    {
+        "id": "7093997315760b38",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1650,
+        "y": 860,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "f90180339f89be30",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "name": "",
+        "group": "30e356a581ec0587",
+        "order": 7,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M8",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "red",
+        "className": "",
+        "icon": "",
+        "payload": "!CBM08",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1470,
+        "y": 920,
+        "wires": [
+            [
+                "6f7c34f8b086f54a"
+            ]
+        ]
+    },
+    {
+        "id": "6f7c34f8b086f54a",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1650,
+        "y": 920,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "35dc9306836a4cb6",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "name": "",
+        "group": "30e356a581ec0587",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M3",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "red",
+        "className": "",
+        "icon": "",
+        "payload": "!CBM03",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1470,
+        "y": 680,
+        "wires": [
+            [
+                "8f341dafe0740852"
+            ]
+        ]
+    },
+    {
+        "id": "8f341dafe0740852",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1650,
+        "y": 680,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "e44771c1e14e8abd",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "name": "",
+        "group": "20d694ee7a142566",
+        "order": 4,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M4",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "!M04B",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1470,
+        "y": 260,
+        "wires": [
+            [
+                "16031142512c4891"
+            ]
+        ]
+    },
+    {
+        "id": "16031142512c4891",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1650,
+        "y": 260,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "41045b5caa781a3c",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "name": "",
+        "group": "20d694ee7a142566",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M5",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "!M05B",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1470,
+        "y": 320,
+        "wires": [
+            [
+                "cb92a4a7641dcac8"
+            ]
+        ]
+    },
+    {
+        "id": "cb92a4a7641dcac8",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1650,
+        "y": 320,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "48c6c29e6c6c913e",
+        "type": "comment",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "name": "タップ下穴連動",
+        "info": "",
+        "x": 1500,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "21ab9a827884b13b",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "name": "",
+        "group": "20d694ee7a142566",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M6",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "!M06B",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1470,
+        "y": 380,
+        "wires": [
+            [
+                "b78da0198eb35878"
+            ]
+        ]
+    },
+    {
+        "id": "b78da0198eb35878",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1650,
+        "y": 380,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "f87fa19f243dc782",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "name": "",
+        "group": "20d694ee7a142566",
+        "order": 7,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M8",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "!M08B",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1470,
+        "y": 440,
+        "wires": [
+            [
+                "dda450fca75b8c65"
+            ]
+        ]
+    },
+    {
+        "id": "dda450fca75b8c65",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1650,
+        "y": 440,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "3f9d2a20360764a3",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "name": "",
+        "group": "20d694ee7a142566",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "M3",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "!M03B",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1470,
+        "y": 200,
+        "wires": [
+            [
+                "2d6e0baeb5e1f107"
+            ]
+        ]
+    },
+    {
+        "id": "2d6e0baeb5e1f107",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1650,
+        "y": 200,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "ae5d48837f9340a7",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "name": "",
+        "group": "b97d4197657bdfb5",
+        "order": 4,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "φ4",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "black",
+        "className": "",
+        "icon": "",
+        "payload": "!RM04",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 1220,
+        "wires": [
+            [
+                "807128d7352ee2a2"
+            ]
+        ]
+    },
+    {
+        "id": "807128d7352ee2a2",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 1220,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "228f9e1525f997b9",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "name": "",
+        "group": "b97d4197657bdfb5",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "φ5",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "black",
+        "className": "",
+        "icon": "",
+        "payload": "!RM05",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 1280,
+        "wires": [
+            [
+                "dc4ebc9babc87d96"
+            ]
+        ]
+    },
+    {
+        "id": "dc4ebc9babc87d96",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 1280,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "3fc3b5ca139fe322",
+        "type": "comment",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "name": "精度穴H7",
+        "info": "",
+        "x": 1080,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "96df8378aac7df5b",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "name": "",
+        "group": "b97d4197657bdfb5",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "φ6",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "black",
+        "className": "",
+        "icon": "",
+        "payload": "!RM06",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 1340,
+        "wires": [
+            [
+                "2f5493aec6e8a0ab"
+            ]
+        ]
+    },
+    {
+        "id": "2f5493aec6e8a0ab",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 1340,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "3a840fbe06d6c77d",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "name": "",
+        "group": "b97d4197657bdfb5",
+        "order": 7,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "φ8",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "black",
+        "className": "",
+        "icon": "",
+        "payload": "!RM08",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 1400,
+        "wires": [
+            [
+                "e07aae2c5f70c6ce"
+            ]
+        ]
+    },
+    {
+        "id": "e07aae2c5f70c6ce",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 1400,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "f339ad065888b2a5",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "name": "",
+        "group": "b97d4197657bdfb5",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "φ3",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "black",
+        "className": "",
+        "icon": "",
+        "payload": "!RM03",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 1160,
+        "wires": [
+            [
+                "5eb455b6df8269ee"
+            ]
+        ]
+    },
+    {
+        "id": "5eb455b6df8269ee",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDmacro.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "macro実行",
+        "x": 1250,
+        "y": 1160,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "cf7f8ed5a27dfa4a",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "4ca01543db29ac03",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDcommand.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "command実行",
+        "x": 2060,
+        "y": 160,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "2c3f1db9e91cb6ea",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "4ca01543db29ac03",
+        "name": "",
+        "group": "bdca513b4a45f4ba",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "穴置換",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": ";BLOAD;JLOD;JELM;@IOFF;LAY;REFLOD;@ION;RPHL",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1870,
+        "y": 160,
+        "wires": [
+            [
+                "cf7f8ed5a27dfa4a"
+            ]
+        ]
+    },
+    {
+        "id": "b8378d51f681a150",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "4ca01543db29ac03",
+        "name": "",
+        "group": "bdca513b4a45f4ba",
+        "order": 2,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "機械Lib",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": ";BLOAD;JLOD;JELM;@IOFF;LAY;LOD",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1880,
+        "y": 100,
+        "wires": [
+            [
+                "4ef03db0d8c814e9"
+            ]
+        ]
+    },
+    {
+        "id": "4ef03db0d8c814e9",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "4ca01543db29ac03",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDcommand.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "command実行",
+        "x": 2060,
+        "y": 100,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "95d0b11b278d5845",
+        "type": "comment",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "4ca01543db29ac03",
+        "name": "ショートカット",
+        "info": "",
+        "x": 1900,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "083b149f3f229ecd",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "name": "",
+        "group": "0936a743737ce4cf",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "要素寸法",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": ";FDIM;ENTY;RAD",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 100,
+        "y": 220,
+        "wires": [
+            [
+                "7704950cce07bba2"
+            ]
+        ]
+    },
+    {
+        "id": "7704950cce07bba2",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDcommand.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "command実行",
+        "x": 320,
+        "y": 220,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "4772e4c9a53335c6",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "name": "",
+        "group": "b97d4197657bdfb5",
+        "order": 2,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "gray",
+        "className": "",
+        "icon": "fa-cog",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 1100,
+        "wires": [
+            [
+                "b5e41e76e1f35ae1"
+            ]
+        ]
+    },
+    {
+        "id": "b5e41e76e1f35ae1",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "command": "cd \"C:\\ICADSX\\JISPARTS\\USER\\04_ねじ穴\\精度穴H7(貫通形状)\" && \"精度穴H7(貫通形状).csv\"",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "CSV開",
+        "x": 1230,
+        "y": 1100,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "4986fa7d9ebdcce6",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "name": "",
+        "group": "0936a743737ce4cf",
+        "order": 1,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "要素測定",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": ";CDMLOC;ENTIF2",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 100,
+        "y": 100,
+        "wires": [
+            [
+                "47d958d3de0eccaa"
+            ]
+        ]
+    },
+    {
+        "id": "47d958d3de0eccaa",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDcommand.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "command実行",
+        "x": 320,
+        "y": 100,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "8cce295cf68c63b5",
+        "type": "comment",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0962671ccf6383e9",
+        "name": "その他",
+        "info": "",
+        "x": 90,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "5f6e45f64ee31d62",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "EXE起動",
+        "x": 340,
+        "y": 400,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "a1db30d556f234e0",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "name": "",
+        "group": "0936a743737ce4cf",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "バネ作成",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "iCADcompspring_v0.0.3.exe",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 100,
+        "y": 400,
+        "wires": [
+            [
+                "5f6e45f64ee31d62"
+            ]
+        ]
+    },
+    {
+        "id": "f56cb6761115805e",
+        "type": "comment",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "63d8cfa722a8a87e",
+        "name": "iCAD情報",
+        "info": "",
+        "x": 580,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "0b1bcacb56d43550",
+        "type": "comment",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "800922b7d97b8894",
+        "name": "パーツ",
+        "info": "",
+        "x": 570,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "43ef623f2dc292c2",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "800922b7d97b8894",
+        "name": "",
+        "group": "738d44a04365dae1",
+        "order": 2,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "SMC",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "https://webassistants.partcommunity.com/23d-libs/smc_jp_assistant/gui/index.html?language=japanese",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 570,
+        "y": 560,
+        "wires": [
+            [
+                "96dfe402feecd080"
+            ]
+        ]
+    },
+    {
+        "id": "96dfe402feecd080",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "800922b7d97b8894",
+        "command": "start ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "WEBページ",
+        "x": 830,
+        "y": 560,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "e990ab6ca0c93f0d",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "name": "",
+        "group": "b42ee0e978d37f09",
+        "order": 2,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "gray",
+        "className": "",
+        "icon": "fa-cog",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 620,
+        "wires": [
+            [
+                "d36e88f53a4415df"
+            ]
+        ]
+    },
+    {
+        "id": "d36e88f53a4415df",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "command": "cd \"C:\\ICADSX\\JISPARTS\\USER\\04_ねじ穴\\キリ穴(貫通形状)\" && \"キリ穴(貫通形状).csv\"",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "CSV開",
+        "x": 1230,
+        "y": 620,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "bbdca7fec63349bf",
+        "type": "ui_text",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "619e01094eda2d1d",
+        "group": "b42ee0e978d37f09",
+        "order": 1,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "貫通",
+        "format": "",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "Arial Black,Arial Black,Gadget,sans-serif",
+        "fontSize": "18",
+        "color": "#000000",
+        "x": 1070,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "9e351a8528f95dfc",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "name": "",
+        "group": "5e2f586015fc6492",
+        "order": 2,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "gray",
+        "className": "",
+        "icon": "fa-cog",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 140,
+        "wires": [
+            [
+                "823eefd337dc8d96"
+            ]
+        ]
+    },
+    {
+        "id": "823eefd337dc8d96",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "command": "cd \"C:\\ICADSX\\JISPARTS\\USER\\04_ねじ穴\\タップ穴(貫通形状)\" && \"タップ穴(貫通形状).csv\"",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "CSV開",
+        "x": 1230,
+        "y": 140,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "3821a2816fc44c7e",
+        "type": "ui_text",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "0d58694f49254945",
+        "group": "5e2f586015fc6492",
+        "order": 1,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "貫通",
+        "format": "",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "Arial Black,Arial Black,Gadget,sans-serif",
+        "fontSize": "18",
+        "color": "#000000",
+        "x": 1070,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "a9dc652a853c62e7",
+        "type": "ui_text",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "ad23d93f5c90da4a",
+        "group": "b97d4197657bdfb5",
+        "order": 1,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "貫通",
+        "format": "",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "Arial Black,Arial Black,Gadget,sans-serif",
+        "fontSize": "18",
+        "color": "#000000",
+        "x": 1070,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "b48c5f281acaad2b",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "name": "",
+        "group": "30e356a581ec0587",
+        "order": 2,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "gray",
+        "className": "",
+        "icon": "fa-cog",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1470,
+        "y": 620,
+        "wires": [
+            [
+                "7a5718d1a80e9b41"
+            ]
+        ]
+    },
+    {
+        "id": "7a5718d1a80e9b41",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "command": "cd \"C:\\ICADSX\\JISPARTS\\USER\\04_ねじ穴\\ざぐり穴(六角穴付ボルト)\" && \"ざぐり穴(六角穴付ボルト).csv\"",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "CSV開",
+        "x": 1630,
+        "y": 620,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "f30c63336d3166e6",
+        "type": "ui_text",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "b9536a57c174546f",
+        "group": "30e356a581ec0587",
+        "order": 1,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "六角穴付",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "13",
+        "color": "#000000",
+        "x": 1480,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "11e2409d928323ee",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "name": "",
+        "group": "20d694ee7a142566",
+        "order": 2,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "gray",
+        "className": "",
+        "icon": "fa-cog",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1470,
+        "y": 140,
+        "wires": [
+            [
+                "69c2a80779a77e9c"
+            ]
+        ]
+    },
+    {
+        "id": "69c2a80779a77e9c",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "command": "cd \"C:\\ICADSX\\JISPARTS\\USER\\04_ねじ穴\\タップ穴(下穴連動)\" && \"タップ穴(下穴連動).csv\"",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "CSV開",
+        "x": 1630,
+        "y": 140,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "b063d9822936e50c",
+        "type": "ui_text",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "7cb881965e55fb97",
+        "group": "20d694ee7a142566",
+        "order": 1,
+        "width": 2,
+        "height": 1,
+        "name": "",
+        "label": "下穴連動",
+        "format": "",
+        "layout": "row-spread",
+        "className": "",
+        "style": true,
+        "font": "Arial Black,Arial Black,Gadget,sans-serif",
+        "fontSize": "13",
+        "color": "#000000",
+        "x": 1480,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "f670007f5a3a2c1f",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "63d8cfa722a8a87e",
+        "name": "",
+        "group": "9ae1f74910a1c03f",
+        "order": 3,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "喜多技研",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "http://www.kitagiken.com/",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 580,
+        "y": 360,
+        "wires": [
+            [
+                "7cbe7ac0ac2ace45"
+            ]
+        ]
+    },
+    {
+        "id": "7cbe7ac0ac2ace45",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "63d8cfa722a8a87e",
+        "command": "start ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "WEBページ",
+        "x": 830,
+        "y": 360,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "8a4c6f14df360455",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "5d1c33f36cd0db7d",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "EXE起動",
+        "x": 340,
+        "y": 820,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "f2f73580901d3128",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "5d1c33f36cd0db7d",
+        "name": "",
+        "group": "ec5aedee5f11c02c",
+        "order": 2,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "図面出力_β版",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-file-pdf-o",
+        "payload": "DrawingOutput.exe 02",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 120,
+        "y": 820,
+        "wires": [
+            [
+                "8a4c6f14df360455"
+            ]
+        ]
+    },
+    {
+        "id": "aa3a8de82679db19",
+        "type": "comment",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "5d1c33f36cd0db7d",
+        "name": "2Dツール",
+        "info": "",
+        "x": 100,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "c04c6351a5e7b4a9",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "5d1c33f36cd0db7d",
+        "name": "",
+        "group": "ec5aedee5f11c02c",
+        "order": 1,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "図枠",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": ";CRTVW;MENUCVTL;CVTLEXEC",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 90,
+        "y": 640,
+        "wires": [
+            [
+                "b237f9e1a4253486"
+            ]
+        ]
+    },
+    {
+        "id": "b237f9e1a4253486",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "5d1c33f36cd0db7d",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDcommand.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "command実行",
+        "x": 320,
+        "y": 640,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "43db851086653a63",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "5d1c33f36cd0db7d",
+        "name": "",
+        "group": "ec5aedee5f11c02c",
+        "order": 1,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "三面図",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": ";CRTVW;MENUCVST;PUT",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 90,
+        "y": 700,
+        "wires": [
+            [
+                "640cd97df3a16d0e"
+            ]
+        ]
+    },
+    {
+        "id": "640cd97df3a16d0e",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "5d1c33f36cd0db7d",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDcommand.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "command実行",
+        "x": 320,
+        "y": 700,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "3df9ad4baab8efbf",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "name": "",
+        "group": "0936a743737ce4cf",
+        "order": 2,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "図面開",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": ";TD4MOD;PTOPN",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 90,
+        "y": 160,
+        "wires": [
+            [
+                "767d349841000da4"
+            ]
+        ]
+    },
+    {
+        "id": "767d349841000da4",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "d59620d28499d32f",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDcommand.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "command実行",
+        "x": 320,
+        "y": 160,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "97ba0ef1965c837e",
+        "type": "ui_button",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "5d1c33f36cd0db7d",
+        "name": "",
+        "group": "ec5aedee5f11c02c",
+        "order": 1,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "更新",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-refresh",
+        "payload": ";CRTVW;MENUCVRE;CVREEXEC",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 90,
+        "y": 760,
+        "wires": [
+            [
+                "2a7292bad891d796"
+            ]
+        ]
+    },
+    {
+        "id": "2a7292bad891d796",
+        "type": "exec",
+        "z": "7dbf1e3bf27dcc18",
+        "g": "5d1c33f36cd0db7d",
+        "command": "cd C:\\ICADSX\\USER\\BIN && start CMDcommand.exe ",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "command実行",
+        "x": 320,
+        "y": 760,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    }
+]
