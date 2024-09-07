@@ -2,8 +2,8 @@
 ## 概要
 Node-REDによるiCADランチャーフロー（json）の導入方法について
 ## はじめに
-前提としてNode-REDはインストール済みを想定　　
-iCAD用ツール(exe)の格納場所はC:\ICADSX\USER\BINとする
+- 前提としてNode-REDはインストール済み 
+- iCAD用ツール(exe)の格納場所はC:\ICADSX\USER\BINとする
 ## 導入方法-NodeREDフロー
 1. 本レポジトリ内の「flows.json」をダウンロード
 2. Node-REDフロー編集画面の 右上三本線メニュー→読み込み からダウンロードしたフローを読み込み
