@@ -10,9 +10,9 @@ Node-REDによるiCADランチャーフロー（json）の導入方法につい�
    Node-REDフロー編集画面の 右上三本線メニュー→読み込み からダウンロードしたフローを読み込み
 3. dashboardノードの追加  
    右上三本線メニュー→パレットの管理  
-   ![image](https://github.com/user-attachments/assets/3d1355eb-bc07-4ea6-974a-afa1f4d0c394)  
+   <img src="https://github.com/user-attachments/assets/3d1355eb-bc07-4ea6-974a-afa1f4d0c394" width="160px">  
    検索項目に「dashboard」と入力し、dashboardノード追加  
-   ![image](https://github.com/user-attachments/assets/d82adeeb-0c6c-41ef-98ea-2332dd725805)
+   <img src="https://github.com/user-attachments/assets/d82adeeb-0c6c-41ef-98ea-2332dd725805" width="480px">  
 ## 編集方法-NodeRED
 ### command実行
 下図橙枠のボタンノードをダブルクリックし、編集画面へ  
@@ -20,7 +20,7 @@ Node-REDによるiCADランチャーフロー（json）の導入方法につい�
 
 50be5bc8)  
 赤枠payload内にiCADコマンドを入力する  
-![image](https://github.com/user-attachments/assets/d091237f-36ef-4615-ac06-703d2ccbc681)  
+<img src="https://github.com/user-attachments/assets/d091237f-36ef-4615-ac06-703d2ccbc681" width="360px"> 
 ### macro実行
 commandと同様にボタンノードを編集する  
 Payload内をiCADにて登録したマクロ名を入力  
