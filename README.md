@@ -7,8 +7,10 @@ Node-REDによるiCADランチャーフロー（json）の導入方法につい�
 ## 導入方法-NodeREDフロー
 1. 本レポジトリ内の「flows.json」をダウンロード
 2. Node-REDフロー編集画面の 右上三本線メニュー→読み込み からダウンロードしたフローを読み込み
-3. 右上三本線メニュー→パレットノード
-4. 検索項目に「dashboard」と入力し、dashboardノード追加
+3. 右上三本線メニュー→パレットの管理
+   
+5. 検索項目に「dashboard」と入力し、dashboardノード追加
+   ![image](https://github.com/user-attachments/assets/41cd00e6-c7b8-4033-81ca-6adc5bbdf681)
 ## 編集方法-NodeRED
 ### command実行
 下図橙枠のボタンノードをダブルクリックし、編集画面へ  
