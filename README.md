@@ -10,7 +10,7 @@ Node-REDによるiCADランチャーフロー（json）の導入方法につい�
 3. 右上三本線メニュー→パレットの管理  
    ![image](https://github.com/user-attachments/assets/3d1355eb-bc07-4ea6-974a-afa1f4d0c394)
 5. 検索項目に「dashboard」と入力し、dashboardノード追加  
-   ![image](https://github.com/user-attachments/assets/41cd00e6-c7b8-4033-81ca-6adc5bbdf681)
+   ![image](https://github.com/user-attachments/assets/d82adeeb-0c6c-41ef-98ea-2332dd725805)
 ## 編集方法-NodeRED
 ### command実行
 下図橙枠のボタンノードをダブルクリックし、編集画面へ  
